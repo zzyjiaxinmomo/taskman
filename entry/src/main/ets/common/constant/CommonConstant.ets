@@ -178,7 +178,7 @@ export class CommonConstants {
   /**
    * Width of task item.
    */
-  static readonly TASK_NAME_WIDTH: string = '30%';
+  static readonly TASK_NAME_WIDTH: string = '50%';
 
   /**
    * Radius of list.
